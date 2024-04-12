@@ -1,0 +1,54 @@
+@media screen  and (min-width:1024px) {
+    .features {
+        padding: 3rem 0;
+        display: block;
+        
+    }
+  .section-header  h2 {
+        max-width: 645px;
+      margin-left: 600px;
+    }
+   
+    .section-content {
+        display:flex;
+      
+        
+       
+        
+    }
+    .section-content .content-ıcerik {
+        margin-top: 65px;
+        padding-top: 30px;
+        
+    }
+     
+      
+
+      
+    
+  .section-content img {
+    margin-left: 350px;
+    
+  }
+ 
+ 
+ 
+.content-ıcerik {
+  margin-left: 60px;
+  margin-bottom: 150px;
+
+}
+ h3 {
+  text-align: center;
+ }
+ 
+.ıcon {
+ position: relative;
+ right:400px;
+ 
+ 
+
+ }
+
+
+    }

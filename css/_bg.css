@@ -1,0 +1,29 @@
+.ara-kısım{
+    background-color: #3751FF;
+    margin-top: 80px;
+    height:250px ;
+    display: flex;
+}
+  .ara-kısım h1  {
+    color:white;
+    font-size: 30px;
+   position: relative;
+   
+   margin-top: 90px;
+
+}
+
+.ara-kısım   .white-button {
+    background-color: white;
+    color: #455880;
+    margin-left: 500px;
+    display: flex;
+    margin-top: 90px;
+   
+ 
+}
+
+.ara-kısım  p {
+position: relative;
+left: 240px;
+}

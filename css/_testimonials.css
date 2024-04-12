@@ -1,0 +1,39 @@
+.testimonials {
+    display: flex;
+    margin-top: 90px;
+}
+
+
+.group p {
+
+ margin-top: 35px;
+ color: #455880;
+ text-align: center;
+ 
+   
+}
+
+
+
+
+.testimonials-title h2 {
+    text-align: center;
+    color:#1E266D ;
+    margin-bottom: 40px;
+}
+
+.group {
+    border-style: solid;
+   display: inline-block;
+    height: 370px;
+    
+}
+.testimonials-image {
+    position: relative;
+    left: 100px;
+    margin-top: 120px;
+}
+.text {
+  position: relative;
+  right: 10px;
+}

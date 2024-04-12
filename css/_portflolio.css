@@ -1,0 +1,23 @@
+@media screen  and (min-width:1024px) {
+
+
+
+.portfolio {
+    background-color:#FFF9EA ;
+}
+
+.portfoloio-title h2,p
+{
+    text-align: center;
+   
+}
+.portfoloio-title {
+  margin-top: 20px;
+}
+.portfoloio-title a {
+  position: relative;
+  right: 50px;
+}
+
+
+}

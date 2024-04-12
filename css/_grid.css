@@ -1,0 +1,34 @@
+/* container */
+.container {
+    max-width: 1024px;
+    margin: 0 auto; /* sağdan soldan ortalanmıs ozelligi */
+}
+.container-large {
+   max-width: 1280px;
+   margin: 0 auto;
+}
+/* columns */
+.row {
+    display: flex; /* sayfa içindeki elemanların kolayca yerleştirilmesi için kullanılan bir özelliktir. */
+    flex-wrap: wrap; /* birden fazla nesnenin tek bir satırda yer almasını sağlar */
+     margin-left: -1rem;
+     margin-right: -1rem;
+}
+.column {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+/* justify */
+.justify-between {
+    justify-content: space-between;
+}
+
+/* align */
+.align-center {
+    align-items: center;
+}
+
+.flex-fill {
+    flex: 1 0 0 ;
+    max-width: 100%;
+}

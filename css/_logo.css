@@ -1,0 +1,48 @@
+.section-logos .section-list .section-item .section-link {
+    display: block;
+    font-size: 1rem;
+    font-weight: 400;
+    color:#1E266D ;
+    
+
+}
+
+
+
+
+@media screen  and (min-width:1024px) {
+
+.section-logos .section-list {
+    display: flex;
+    justify-content:space-evenly;
+    
+  
+    
+}
+  .section-logos {
+    margin-left: 0px;
+    margin-top: 20px;
+   
+}
+
+
+
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

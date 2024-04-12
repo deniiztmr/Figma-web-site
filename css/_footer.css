@@ -1,0 +1,20 @@
+@media screen  and (min-width:1024px) {
+    .footer {
+        margin-top: 40px;
+        
+    }
+    .footer p {
+        color:#455880;
+        
+    }
+}
+
+
+.footer {
+    padding-top:100px ;
+    padding-bottom: 90px;
+}
+
+.footer .column ul li {
+    line-height: 40px;
+}

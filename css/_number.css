@@ -1,0 +1,10 @@
+.number {
+    color: #1E266D;
+    
+}
+.number:hover {
+    color: #212353;
+    font-weight: 700;
+    transition: 0.5s;
+    
+    }
